@@ -1,0 +1,1 @@
+export default function Footer() { return <footer id="contact" className='p-10 bg-gray-200 dark:bg-gray-800'>Footer Section</footer>; }

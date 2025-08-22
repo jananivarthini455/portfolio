@@ -1,0 +1,1 @@
+export default function Projects() { return <section id="projects" className='p-10'>Projects Section</section>; }
